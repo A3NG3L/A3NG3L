@@ -2,7 +2,7 @@
 
 **`Cybersecurity Researcher · TryHackMe Top 5% · IT @ Securitas`**
 <br>
-<img src="https://tenor.com/view/lain-serial-experiments-lain-gif-26108112" width="200">
+<img src="https://animesher.com/entry/serial-experiments-lain-aesthetic-pale-2127003/" width="200">
 <!-- ^ INNOCENT ZERO's GIF, swap to your own from giphy.com if you want something more personal -->
 <br>
 
