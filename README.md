@@ -12,7 +12,7 @@ You'll also catch me studying for Security+ & eJPT, in PortSwigger labs, or scri
 On the side I ran an AI-driven content campaign that hit 10M+ views on one video.
 When I'm offline i will be praying reading or playing chess.
 
-Currently working through **Security+ → eJPT → specialization**.*.
+Currently working through **Security+ → eJPT → specialization**.
 
 <a href="https://tryhackme.com/p/a3ng3l">
   <img src="https://tryhackme-badges.s3.amazonaws.com/a3ng3l.png" alt="TryHackMe" height="60">
