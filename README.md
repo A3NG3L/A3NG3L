@@ -2,19 +2,11 @@
 
 **`Cybersecurity Researcher · TryHackMe Top 5% · IT @ Securitas`**
 
-<img src="https://animesher.com/orig/2/212/2127/21270/animesher.com_serial-experiments-lain-aesthetic-pale-2127003.gif" width="220">
+<img src="lain.gif" width="220">
 
 ## About
 
-Cybersecurity practitioner with deep Linux fluency and four years of daily Kali use. Most of my time goes to **hacking** — TryHackMe rooms (Top 5%), virtual machine labs, and breaking systems open to understand how they fit together. Comfortable across **Kali, Parrot OS, BlackArch**, and most major distros; equally at home in **virtualisation** (Hyper-V, VirtualBox, VMware) and tooling-heavy workflows.
-
-I also work fluently with **AI** — built and ran an AI-driven content campaign that pulled **10M+ views on a single video** and demonstrated practical use of generative tooling across the full content pipeline.
-
-Day job in IT at **Securitas (Milton Keynes)** with **300+ hours** of cybersecurity-related work experience. ISC2 Certified in Cybersecurity (CC), final-year cybersecurity student.
-
-Outside the terminal: reading, chess, and the kind of slow problem-solving that hacking rewards.
-
-Currently working through **Security+ → eJPT → specialization**.
+I break things to understand them. Four years on Kali daily-driver, fluent across Parrot OS, BlackArch, and most major distros — comfortable in virtualised environments (Hyper-V, VirtualBox, VMware) and tooling-heavy workflows. Most of my time goes into TryHackMe (Top 5%), VM labs, and the slow walk of recon → exploitation → privesc. I also build with AI — ran a generative-content campaign that hit 10M+ views on a single video. Day job in IT at Securitas (Milton Keynes), 300+ hours of cybersecurity-related work experience. ISC2 CC certified, final-year cybersecurity student. Outside the terminal: reading, chess, problem-solving that rewards patience. Currently working through **Security+ → eJPT → specialization**.
 
 <a href="https://tryhackme.com/p/a3ng3l">
   <img src="https://tryhackme-badges.s3.amazonaws.com/a3ng3l.png" alt="TryHackMe" height="60">
