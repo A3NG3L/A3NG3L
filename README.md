@@ -3,7 +3,7 @@
 <!-- Optional aesthetic GIF — INNOCENT ZERO uses one; swap or delete this line -->
 <!-- <img src="https://your-chosen-gif.gif" width="120"> -->
 
-<h2>Hi there!</h2>
+<h2>A3NG3L</h2>
 Cybersecurity practitioner building toward offensive security.
 Day job in IT at <b>Securitas (Milton Keynes)</b> with <b>300+ hours</b>
 of cybersecurity-related work experience.<br>
