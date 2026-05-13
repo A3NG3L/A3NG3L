@@ -2,7 +2,7 @@
 
 **`Cybersecurity Researcher · TryHackMe Top 5% · IT @ Securitas`**
 
-<img src="hacker.gif" width="220">
+<img src="https://animesher.com/orig/2/212/2127/21270/animesher.com_serial-experiments-lain-aesthetic-pale-2127003.gif" width="220">
 
 ## About
 
