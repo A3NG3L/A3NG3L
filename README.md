@@ -60,7 +60,7 @@ Currently working through **Security+ → eJPT → specialization**.
 ### 🔗 Elsewhere
 
 - 🐧 TryHackMe: [a3ng3l](https://tryhackme.com/p/a3ng3l)
-- 💼 LinkedIn: [coming soon]
+- 💼 LinkedIn: [https://www.linkedin.com/in/mathew-marais-38300737b/]
 - 🌐 Blog: [A3NG3L.github.io](https://A3NG3L.github.io) *(coming soon)*
 
 ### 📊 Stats
