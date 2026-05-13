@@ -6,7 +6,13 @@
 
 ## About
 
-I break things to understand them. Four years on Kali daily-driver, fluent across Parrot OS, BlackArch, and most major distros — comfortable in virtualised environments (Hyper-V, VirtualBox, VMware) and tooling-heavy workflows. Most of my time goes into TryHackMe (Top 5%), VM labs, and the slow walk of recon → exploitation → privesc. I also build with AI — ran a generative-content campaign that hit 10M+ views on a single video. Day job in IT at Securitas (Milton Keynes), 300+ hours of cybersecurity-related work experience. ISC2 CC certified, final-year cybersecurity student. Outside the terminal: reading, chess, problem-solving that rewards patience. Currently working through **Security+ → eJPT → specialization**.
+I'm a ethical hacker — I break things to understand them.
+I spend my time grinding TryHackMe rooms (Top 5%), running labs in VMs, and figuring out how systems actually work under the hood.
+You'll also catch me studying for Security+ & eJPT, in PortSwigger labs, or scripting tools in Python.
+On the side I ran an AI-driven content campaign that hit 10M+ views on one video.
+When I'm offline i will be praying reading or playing chess.
+
+Currently working through **Security+ → eJPT → specialization**.*.
 
 <a href="https://tryhackme.com/p/a3ng3l">
   <img src="https://tryhackme-badges.s3.amazonaws.com/a3ng3l.png" alt="TryHackMe" height="60">
