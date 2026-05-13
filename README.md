@@ -1,9 +1,13 @@
+```markdown
+# A3NG3L
+
 **`Cybersecurity Researcher · TryHackMe Top 5% · IT @ Securitas`**
 <br>
-<!-- Optional aesthetic GIF — INNOCENT ZERO uses one; swap or delete this line -->
-<!-- <img src="https://your-chosen-gif.gif" width="120"> -->
+<img src="https://giffiles.alphacoders.com/120/120394.gif" width="200">
+<!-- ^ INNOCENT ZERO's GIF, swap to your own from giphy.com if you want something more personal -->
+<br>
 
-<h2>A3NG3L <3 </h2>
+<h2>Hi there!</h2>
 Cybersecurity practitioner building toward offensive security.
 Day job in IT at <b>Securitas (Milton Keynes)</b> with <b>300+ hours</b>
 of cybersecurity-related work experience.<br>
@@ -13,8 +17,8 @@ ISC2 Certified in Cybersecurity (CC), final-year cybersecurity student,
 <b>Kali daily-driver for 4+ years</b>. Self-directed Python security tooling,
 IoT projects, and writeups live in this profile.<br><br>
 
-<a href="https://tryhackme.com/p/A3NG3L">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/A3NG3L.png" alt="TryHackMe" height="60">
+<a href="https://tryhackme.com/p/a3ng3l">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/a3ng3l.png" alt="TryHackMe" height="60">
 </a><br>
 
 
@@ -58,7 +62,7 @@ IoT projects, and writeups live in this profile.<br><br>
 
 ### 🔗 Elsewhere
 
-- 🐧 TryHackMe: [A3NG3L](https://tryhackme.com/p/A3NG3L)
+- 🐧 TryHackMe: [A3NG3L](https://tryhackme.com/p/a3ng3l)
 - 💼 LinkedIn: [coming soon]
 - 🌐 Blog: [A3NG3L.github.io](https://A3NG3L.github.io) *(coming soon)*
 
