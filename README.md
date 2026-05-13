@@ -1,4 +1,3 @@
-```markdown
 # A3NG3L
 
 **`Cybersecurity Researcher · TryHackMe Top 5% · IT @ Securitas`**
@@ -7,7 +6,7 @@
 <!-- ^ INNOCENT ZERO's GIF, swap to your own from giphy.com if you want something more personal -->
 <br>
 
-<h2>Hi there!!</h2>
+<h2>Hi there!</h2>
 Cybersecurity practitioner building toward offensive security.
 Day job in IT at <b>Securitas (Milton Keynes)</b> with <b>300+ hours</b>
 of cybersecurity-related work experience.<br>
@@ -62,7 +61,7 @@ IoT projects, and writeups live in this profile.<br><br>
 
 ### 🔗 Elsewhere
 
-- 🐧 TryHackMe: [A3NG3L](https://tryhackme.com/p/a3ng3l)
+- 🐧 TryHackMe: [a3ng3l](https://tryhackme.com/p/a3ng3l)
 - 💼 LinkedIn: [coming soon]
 - 🌐 Blog: [A3NG3L.github.io](https://A3NG3L.github.io) *(coming soon)*
 
@@ -70,4 +69,3 @@ IoT projects, and writeups live in this profile.<br><br>
 ### 📊 Stats
 
 ![A3NG3L's GitHub stats](https://github-readme-stats.vercel.app/api?username=A3NG3L&show_icons=true&theme=gruvbox)
-```
