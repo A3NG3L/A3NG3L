@@ -1,4 +1,4 @@
-# Mathew Marais (A3NG3L)
+# A3NG3L
 
 **IT Analyst @ Securitas · ISC2 CC · TryHackMe Top 5%**
 
